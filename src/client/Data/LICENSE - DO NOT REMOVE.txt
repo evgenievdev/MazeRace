@@ -1,0 +1,28 @@
+Artwork:
+ - from opengameart.org
+
+	https://opengameart.org/content/spinning-pixel-coin-0
+	https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+	https://opengameart.org/content/tree-variations-from-jetrels-wood-tileset
+	https://opengameart.org/content/zrpg-beach
+	https://opengameart.org/content/2d-lost-garden-zelda-style-tiles-resized-to-32x32-with-additions
+	https://opengameart.org/content/lpc-snowy-tree
+	https://opengameart.org/content/2d-lost-garden-zelda-style-tiles-winter-theme-with-additions
+
+Sounds:
+
+Music by Ozzed (http://ozzed.net/)
+8-Bit Misc sounds from freesound.org
+ - https://freesound.org/people/LittleRobotSoundFactory/sounds/270303/
+
+
+All resources used are under a Creative-Commons license (CC3.0 & 4.0)
+
+
+Fonts:
+ - from dafont.com
+
+VCR OSD Mono - https://www.dafont.com/vcr-osd-mono.font
+
+ 
+
