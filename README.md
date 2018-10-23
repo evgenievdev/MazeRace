@@ -14,6 +14,8 @@ The game is written entirely in Java without any external dependencies with the 
 - Procedurally generated (single-solution) hybrid grid-mazes
 - Character animation system
 - Custom Audio/Image/Font libraries
+- In-game sounds
+- Level designs
 - Database/Server/Client models
 - Coin collection mechanism
 - Trap placement mechanism
