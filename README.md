@@ -8,6 +8,8 @@ The game has a Server and Client package. A Database is used to store player acc
 
 The game is written entirely in Java without any external dependencies with the exception of a Database driver, needed for user authentication. The game uses multi-threading and sockets to handle client connections. 
 
+For screenshots, scroll down.
+
 ## Features
 - Custom GUI (8-bit style)
 - 2D movable viewport
